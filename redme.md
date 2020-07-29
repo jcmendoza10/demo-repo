@@ -1,3 +1,3 @@
 #demo
 
-some demos I'm working on and practice html&css
+some demos I'm working on and practice html&css and some JS!
